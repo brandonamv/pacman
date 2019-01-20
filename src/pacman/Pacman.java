@@ -1,7 +1,7 @@
-package pacman;
+﻿package pacman;
 
 /**
- *
+ * SIN VIDEO XD
  * @author Diego Enrique Chacón
  * @author Brandon Martinez
  */
